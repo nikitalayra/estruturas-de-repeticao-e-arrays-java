@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95ca860b-873d-4f71-85be-6a5d12dbd037" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/loops/Ex1_NomeEIdade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/loops/Ex2_Nota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/loops/Ex3_MaiorEMedia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/loops/Ex4_ParEImpar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/loops/Ex5_Tabuada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/loops/Ex6_Fatorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="95ca860b-873d-4f71-85be-6a5d12dbd037" name="Changes" comment="Conclusão dos exercícios 1,2 e 3 de Estruturas de Repetição (loops)">
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/arrays/Ex1_OrdemInversa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/arrays/Ex2_Consoantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/arrays/Ex3_NumerosAleatorios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/arrays/Ex4_ArrayMultidimensional.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/exercicios/loops/Ex4_ParEImpar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/loops/Ex4_ParEImpar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/exercicios/loops/Ex5_Tabuada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/loops/Ex5_Tabuada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/exercicios/loops/Ex6_Fatorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/exercicios/loops/Ex6_Fatorial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +51,14 @@
       <option name="presentableId" value="Default" />
       <updated>1673218234568</updated>
     </task>
+    <task id="LOCAL-00001" summary="Conclusão dos exercícios 1,2 e 3 de Estruturas de Repetição (loops)">
+      <created>1673225536874</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673225536874</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -64,5 +71,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Conclusão dos exercícios 1,2 e 3 de Estruturas de Repetição (loops)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Conclusão dos exercícios 1,2 e 3 de Estruturas de Repetição (loops)" />
   </component>
 </project>
